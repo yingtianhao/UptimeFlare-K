@@ -5,7 +5,7 @@ const pageConfig: PageConfig = {
   title: "Kelu UPTIME",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://our.kelu.one', label: 'Kelu' },
+  //  { link: 'https://our.kelu.one', label: 'Kelu' },
   ],
   // If not specified, all monitors will be shown in a single list
   // If specified, monitors will be grouped and ordered, not-listed monitors will be invisble (but still monitored)
