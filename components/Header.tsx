@@ -33,7 +33,7 @@ export default function Header() {
               variant="gradient"
               gradient={{ from: 'blue', to: 'cyan', deg: 90 }}
             >
-              Kelu Uptime
+              Kelu 可用性监测
             </Text>
           </a>
         </div>
